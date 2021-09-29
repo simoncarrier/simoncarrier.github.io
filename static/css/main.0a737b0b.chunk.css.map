@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/custombtn.css"],"names":[],"mappings":"AAAA,UACE,uBAAyB,CACzB,UAAY,CACZ,oBACF,CAEA,gBACE,wBACF","file":"main.0a737b0b.chunk.css","sourcesContent":[".btn-cust {\n  background-color: #800080;\n  color: white;\n  border-color: #bb3bdd;\n}\n\n.btn-cust:hover {\n  background-color: #bb3bdd;\n}\n"]}
